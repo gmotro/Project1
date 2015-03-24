@@ -1,0 +1,15 @@
+﻿body{
+font-family:sans-serif;
+background:#F9F9F9;
+}
+
+.container{
+	width:250px;
+	background:#FFF;
+	margin:200px auto;
+	padding:20px;
+	box-shadow:0 0 5px #CCC;
+	-o-box-shadow:0 0 5px #CCC;
+	-moz-box-shadow:0 0 5px #CCC;
+	-webkit-box-shadow:0 0 5px #CCC;
+}

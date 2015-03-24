@@ -41,7 +41,7 @@ class SimpleRouter implements IRouter
     }
 
     /**
-     * Function handle Process the URI to Controller mapping
+     * Function handle Process the URI to Controller mappinghandle
      *
      * @param IRequest $request
      * @throws \HttpUrlException
